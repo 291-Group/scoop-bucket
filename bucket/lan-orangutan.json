@@ -1,0 +1,21 @@
+{
+    "version": "3.4.2",
+    "description": "Network discovery and device tracking tool",
+    "homepage": "https://github.com/291-Group/LAN-Orangutan",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/291-Group/LAN-Orangutan/releases/download/v3.4.2/orangutan-windows-amd64.zip",
+            "hash": "ba944487da517ad2bb9e1186677031b62a1acf4708f40cde6257c5682aceedc7"
+        }
+    },
+    "bin": "orangutan-windows-amd64.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/291-Group/LAN-Orangutan/releases/download/v$version/orangutan-windows-amd64.zip"
+            }
+        }
+    }
+}
