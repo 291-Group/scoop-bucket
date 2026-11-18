@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/291-Group/LAN-Orangutan/releases/download/v4.0.0/orangutan-windows-amd64.zip",
-            "hash": "52c9c7d8f58fb1060f7a3df55fa94ee15580000ce229a16dad0e664311c66ebb"
+            "hash": "c0d871804831a27f693a2af1719671a73823365b9842a7d2c2d33a48dbb74853"
         }
     },
     "bin": "orangutan-windows-amd64.exe",
